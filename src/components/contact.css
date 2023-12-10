@@ -1,0 +1,29 @@
+.contact-container{
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -100px;
+}
+.left-side{
+    width: 40%;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.contact-box{
+    /* color: white; */
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    height: 450px;
+    border-radius: 12px;
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    /* background-color: #e62f2f9f; */
+}
+.bold-text{
+    font-weight: 500;
+}
