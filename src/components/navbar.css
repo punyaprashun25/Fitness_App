@@ -1,0 +1,37 @@
+.navbar{
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px 0 100px;
+}
+.logo{
+    padding: 10px;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.name-part{
+    color: #e62f2f;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.links a:hover{
+    color: #e62f2f;
+}
+.login-btn{
+    background-color: #e62f2f;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
