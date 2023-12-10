@@ -1,9 +1,9 @@
 .contact-container{
     padding: 50px 100px;
+    height: 100vh;
     display: flex;
     justify-content: space-between;
     margin-top: -100px;
-    align-items: center;
 }
 .left-side{
     width: 40%;
