@@ -12,7 +12,7 @@ const Hero_section = () => {
             <div className="text-section">
                 <div className="text-heading">
                     <div className="line"></div>
-                    <p className="heading">WITH FITMATE</p>
+                    <p className="heading">With FitMate</p>
                 </div>
                 <p className="quotes">BUILD PERFECT BODY SHAPE FOR GOOD AND HEALTHY LIFE</p>
                 <button className="explore">Explore More</button>

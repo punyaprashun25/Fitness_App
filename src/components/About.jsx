@@ -11,7 +11,7 @@ const About = () => {
       <div className="about">
         <div className="text-heading">
           <div className="line"></div>
-          <p className="heading">ABOUT OUR APP</p>
+          <p className="heading">About Us</p>
         </div>
         <p className="aboutText">
         SAFE BODY BUILDING PROPER SOLUTIONS THAT SAVES OUR VALUABLE TIME!

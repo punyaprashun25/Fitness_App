@@ -1,0 +1,10 @@
+.feature{
+    width: 250px;
+    height: 250px;
+    color: white;
+    background-color: #e62f2f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
