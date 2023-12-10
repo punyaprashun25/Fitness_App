@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: -100px;
+    align-items: center;
 }
 .left-side{
     width: 40%;
@@ -22,7 +23,6 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
-    /* background-color: #e62f2f9f; */
 }
 .bold-text{
     font-weight: 500;
